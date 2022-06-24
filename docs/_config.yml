@@ -1,5 +1,7 @@
 
-theme: jekyll-theme-merlot
+remote_theme: pages-themes/merlot@v0.2.0
+
+# theme: jekyll-theme-merlot
 
 title: Kerekasztal
 description: a Szerepasztal Társaság eseménye
@@ -54,6 +56,7 @@ whitelist:
   - jekyll-redirect-from
 #plugins             : []
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-redirect-from
 
