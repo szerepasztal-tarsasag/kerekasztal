@@ -1,0 +1,2 @@
+# SZAT Kerekasztal
+
